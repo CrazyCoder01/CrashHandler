@@ -1,4 +1,4 @@
-CrashHandlerLib
+CrashHandlerLib(已移步到https://github.com/tuikes/CrashHandler.git)
 ======
 一个基于UncaughtExceptionHandler实现的Android奔溃日志捕获依赖库，使用该库可以显性的将奔溃日志展示出来，有助于开发以及测试人员在工作中及时定位奔溃问题.同时支持将奔溃日志分享到微信、QQ等第三方。
 
